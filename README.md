@@ -4,7 +4,7 @@ NodeJs
 # Project Sumary
 DMoney is a demo financial related project where fake money can be transferred. In this project I have automate the d-money api using postman and newman. A Newman report has been created based on the API test results, all test cases were written manually.
 ## API Documentation:
-https://documenter.getpostman.com/view/32576823/2sAYBPmERt
+https://documenter.getpostman.com/view/32576823/2sB34oDHuH
 ## Test case file:
 https://docs.google.com/spreadsheets/d/1IPfRNfvw6BALFXWuWl-I6X_taiC4vMuRq18PbptvufY/edit?gid=0#gid=0ACA
 ## Bug Report:
